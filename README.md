@@ -6,7 +6,7 @@ This project is a predictive modeling exercise using Capital Bikeshare data from
 * Model date: June 2025
 * Model version: 1.0
 * License: MIT
-* Model implementation:
+* Model implementation: https://github.com/Robert214-sudo/Capital-Bikeshare-/blob/main/final%20assignment.ipynb
 ## Intended Use
 * Primary intended uses: This project serves as an educational example of applying machine learning models to forecast daily bike pickups and drop-offs at Capital Bikeshare's "22nd & H St NW" station, using features like weather, day-of-week, and trip data from Feb-Apr 2024. It is intended to demonstrate the comparison and application of various predictive models, such as Random Forest, Neural Network, KNN and Regression Tree, for optimizing resource allocation in urban transportation systems.
 * Primary intended users: Students and those that want to learn about modeling
