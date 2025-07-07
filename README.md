@@ -61,8 +61,6 @@ This project is a predictive modeling exercise using Capital Bikeshare data from
   - `min_samples_split`: 2  
   - `random_state`: 42  
 
----
-
 ## 📈 Evaluation Metrics
 
 - **Root Mean Squared Error (RMSE)**  
